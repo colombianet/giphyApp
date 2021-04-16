@@ -1,0 +1,16 @@
+#sidebar-wrapper {
+    min-height: 100vh;
+    /* margin-left: -15rem; */
+    -webkit-transition: margin 1s ease-out;
+    -moz-transition: margin 1s ease-out;
+    -o-transition: margin 1s ease-out;
+    transition: margin 1s ease-out;
+}
+
+.border-right .border-bottom {
+    color: rgba(0, 0, 0, .125)!important;
+}
+
+#sidebar-wrapper .list-group {
+    width: 15rem;
+}
